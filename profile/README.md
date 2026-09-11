@@ -1,41 +1,61 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1D4ED8,100:22C55E&height=210&section=header&text=BIRDEV%20STUDIO&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Fikirleri%20g%C3%BC%C3%A7l%C3%BC%20dijital%20%C3%BCr%C3%BCnlere%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyoruz.&descSize=18&descAlignY=60&animation=fadeIn" alt="BIRDEV STUDIO" />
+<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0B1220,45:183B73,100:00A6A6&text=BIRDEV%20STUDIO&fontSize=56&fontColor=FFFFFF&stroke=0B1220&animation=fadeIn" alt="BIRDEV STUDIO" /></p>
 
-<p align="center">
-  <a href="https://github.com/BIRDEV-STUDIO?tab=repositories"><img src="https://img.shields.io/badge/Explore_our_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projelerimizi keşfedin" /></a>
-  <img src="https://img.shields.io/badge/Building_in-T%C3%BCrkiye-E11D48?style=for-the-badge" alt="Türkiye'de üretiliyor" />
-</p>
+<p align="center"><b>İnsanların öğrenme, üretme ve anlatma biçimlerini güçlendiren dijital ürünler tasarlıyoruz.</b></p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=18&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=Useful+software%2C+thoughtfully+crafted.;From+the+first+idea+to+a+real+product.;Sutols+%C2%B7+Nemos+%C2%B7+and+what%27s+next." alt="Useful software, thoughtfully crafted" /></p>
+<p align="center"><a href="https://github.com/farukdevec/Sutols"><img src="https://img.shields.io/badge/Explore-Sutols-183B73?style=for-the-badge" alt="Sutols" /></a>&nbsp;<a href="https://github.com/BIRDEV-STUDIO/NemosApp"><img src="https://img.shields.io/badge/Explore-Nemos-00A6A6?style=for-the-badge" alt="Nemos" /></a>&nbsp;<a href="https://github.com/BIRDEV-STUDIO?tab=repositories"><img src="https://img.shields.io/badge/GitHub-BIRDEV--STUDIO-111827?style=for-the-badge&logo=github" alt="GitHub" /></a></p>
 
-## Merhaba, biz BIRDEV STUDIO.
+---
 
-İyi yazılımın yalnızca çalışmakla kalmayıp insanlara **netlik, hız ve güven** vermesi gerektiğine inanıyoruz. BIRDEV STUDIO; ilk fikri ürün deneyimine, karmaşık işleri de sade araçlara dönüştüren bağımsız bir ürün stüdyosudur.
+## BIRDEV STUDIO
 
-Bugün sunum üretimini daha akıcı hâle getiren **Sutols** ve yeni nesil dijital deneyimler üzerinde çalışıyoruz. Yarın ise aynı özenle çözülecek yeni problemler var.
+BIRDEV STUDIO, **Emrullah Deveci** ve **Emre Bircan** tarafından kurulan bağımsız bir ürün stüdyosudur. Teknolojiyi gösteriş için değil; karmaşık olanı anlaşılır, üretimi erişilebilir ve öğrenmeyi daha merak uyandırıcı kılmak için kullanıyoruz.
 
-<table><tr><td width="33%" align="center"><b>01 — Anla</b><br /><sub>Gerçek ihtiyacı ve bağlamı dinleriz.</sub></td><td width="33%" align="center"><b>02 — Tasarla</b><br /><sub>Karmaşıklığı sezgisel deneyime çeviririz.</sub></td><td width="33%" align="center"><b>03 — İnşa et</b><br /><sub>Özenli, yaşayan ürünler geliştiririz.</sub></td></tr></table>
+İki ürünümüz farklı ihtiyaçlardan yola çıkıyor, aynı yaklaşımda buluşuyor: insanın fikrini daha iyi anlatmasına ve potansiyelini daha rahat ortaya koymasına alan açmak.
 
-## Projelerimiz
+<table><tr><td width="50%" valign="top"><h3>✦ Ürün düşüncesi</h3><p>Bir özelliğin değil, bütün deneyimin sorumluluğunu alırız. İlk dokunuştan son çıktıya kadar netlik ararız.</p></td><td width="50%" valign="top"><h3>◌ Uzun vadeli üretim</h3><p>Hızlıca yayınlanan ama özenle gelişen; teknik olarak sağlam, kullanımda samimi ürünler inşa ederiz.</p></td></tr></table>
 
-| Ürün | Ne yapıyor? | Durum |
-| :--- | :--- | :--- |
-| <a href="https://github.com/BIRDEV-STUDIO/Sutols"><b>✦ Sutols</b></a> | Başlık ve metinlerden düzenlenebilir, etkileyici HTML sunumları oluşturur. | <img src="https://img.shields.io/badge/Building-2563EB?style=flat-square" alt="Geliştiriliyor" /> |
-| <a href="https://github.com/BIRDEV-STUDIO/Nemos"><b>◌ Nemos</b></a> | Yeni bir BIRDEV STUDIO ürünü — yakında daha fazlası burada. | <img src="https://img.shields.io/badge/Coming_soon-64748B?style=flat-square" alt="Yakında" /> |
+## Ürünlerimiz
 
-> Yeni bir ürün mü geliyor? Bu tabloya bir satır ekleyin; organizasyon sayfası otomatik olarak güncellensin.
+### Sutols — fikirden etkileyici sunuma
 
-## Nasıl çalışıyoruz
+<a href="https://github.com/farukdevec/Sutols"><img src="https://raw.githubusercontent.com/farukdevec/Sutols/main/assets/readme/preview-presentation.png" alt="Sutols sunum editörü" width="100%" /></a>
 
-<p align="center"><code>İçgörü</code> → <code>Prototip</code> → <code>Ürün</code> → <code>Geri bildirim</code> → <code>Daha iyi ürün</code></p>
+Sutols, başlık ve metinlerden **düzenlenebilir HTML sunumları** oluşturan bir sunum üretim ortamıdır. İçeriği analiz ederek uygun arka planları, yerleşimleri ve görsel bileşenleri seçer; sonucu yalnızca üretmekle kalmaz, ayrıntılı biçimde düzenlenebilir bırakır.
 
-- **Ürün odağı:** Teknolojiyi insanların işini kolaylaştıran bir araç olarak görürüz.
-- **Titiz deneyim:** İlk ekrandan son ayrıntıya kadar açık, tutarlı akışlar tasarlarız.
-- **Sürekli gelişim:** Yayınlamak; ölçmenin, öğrenmenin ve iyileştirmenin başlangıcıdır.
+- İçerikten düzenlenebilir sunum taslağına akıcı geçiş
+- Sahne, metin, görsel, efekt, reveal adımı, hotspot ve sunucu notu kontrolü
+- Sunum modu, tam ekran deneyimi, HTML ve PDF dışa aktarma
+- Masaüstü ve mobilde çalışan Flutter Web deneyimi
 
-## Birlikte büyüyelim
+<p><a href="https://github.com/farukdevec/Sutols"><b>→ Sutols deposunu incele</b></a> &nbsp;·&nbsp; <a href="https://sutols.com"><b>sutols.com</b></a></p>
 
-Projelerimizi inceleyin, fikirlerinizi paylaşın ve açık kaynak yolculuğumuza eşlik edin. Bir hata, öneri veya katkı için ilgili projenin Issues ve Pull Requests alanları en iyi başlangıç noktasıdır.
+### Nemos — çocukların öğrenme alanı
 
-<p align="center"><a href="https://github.com/BIRDEV-STUDIO"><b>GitHub'da BIRDEV STUDIO'yu takip et →</b></a></p>
+<p align="center"><a href="https://github.com/BIRDEV-STUDIO/NemosApp"><img src="https://img.shields.io/badge/Nemos-Öğren%20·%20Oyna%20·%20Üret-00A6A6?style=for-the-badge" alt="Nemos" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1D4ED8,100:22C55E&height=120&section=footer" alt="" />
+Nemos, çocukların ders konularını oyunlaştırılmış deneyimlerle keşfetmesi için geliştirilen bir öğrenme ve yaratım platformudur. Hazır eğitim oyunlarını, yapay zekâ destekli HTML5 oyun üretimini ve güvenli sosyal keşfi tek bir mobil/web deneyiminde bir araya getirir.
+
+- Eğitim odaklı mini oyunlar ve Flame tabanlı 2D deneyimler
+- Yapay zekâ ile oyun fikrinden HTML5 oyun üretimine kontrollü akış
+- Skor, XP, ödül, günlük görev ve sıralama sistemleri
+- Keşfet akışı, yorumlar, klanlar, sohbet ve 3D kostüm deneyimi
+- Android, iOS ve web için Flutter; Firebase destekli altyapı
+
+<p><a href="https://github.com/BIRDEV-STUDIO/NemosApp"><b>→ NemosApp deposunu incele</b></a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=birdev.nemos&hl=tr"><b>Google Play</b></a></p>
+
+## Birlikte kuruyoruz
+
+| | |
+| :--- | :--- |
+| **Emrullah Deveci** | BIRDEV STUDIO’nun ortak kurucusu. |
+| **Emre Bircan** | BIRDEV STUDIO’nun ortak kurucusu. |
+
+İki kurucu olarak; ürün fikrinden teknik mimariye, deneyim tasarımından sürdürülebilir geliştirmeye kadar sürecin tamamında birlikte çalışıyoruz. Amacımız, insanların gerçekten kullanmak isteyeceği ürünleri sabırla ve özenle büyütmek.
+
+## Yolculuğumuza eşlik edin
+
+Projeleri keşfedin, geri bildirimlerinizi ilgili depolardaki Issues alanından paylaşın ve BIRDEV STUDIO’yu takip edin. Yeni ürünler eklendikçe bu sayfa onların da ilk durağı olacak.
+
+<p align="center"><a href="https://github.com/BIRDEV-STUDIO"><b>GitHub’da BIRDEV STUDIO →</b></a></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1220,45:183B73,100:00A6A6" alt="" />
