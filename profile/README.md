@@ -1,44 +1,41 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1D4ED8,100:22C55E&height=210&section=header&text=BIRDEV%20STUDIO&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Fikirleri%20g%C3%BC%C3%A7l%C3%BC%20dijital%20%C3%BCr%C3%BCnlere%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyoruz.&descSize=18&descAlignY=60&animation=fadeIn" alt="BIRDEV STUDIO" />
 
-# BIRDEV STUDIO
+<p align="center">
+  <a href="https://github.com/BIRDEV-STUDIO?tab=repositories"><img src="https://img.shields.io/badge/Explore_our_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projelerimizi keşfedin" /></a>
+  <img src="https://img.shields.io/badge/Building_in-T%C3%BCrkiye-E11D48?style=for-the-badge" alt="Türkiye'de üretiliyor" />
+</p>
 
-### Thoughtful software, built together.
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=18&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=680&lines=Useful+software%2C+thoughtfully+crafted.;From+the+first+idea+to+a+real+product.;Sutols+%C2%B7+Nemos+%C2%B7+and+what%27s+next." alt="Useful software, thoughtfully crafted" /></p>
 
-Emrullah Deveci ve Emre Bircan’ın ortak geliştirdiği ürünler için açık kaynak merkezi.
+## Merhaba, biz BIRDEV STUDIO.
 
-</div>
+İyi yazılımın yalnızca çalışmakla kalmayıp insanlara **netlik, hız ve güven** vermesi gerektiğine inanıyoruz. BIRDEV STUDIO; ilk fikri ürün deneyimine, karmaşık işleri de sade araçlara dönüştüren bağımsız bir ürün stüdyosudur.
 
----
+Bugün sunum üretimini daha akıcı hâle getiren **Sutols** ve yeni nesil dijital deneyimler üzerinde çalışıyoruz. Yarın ise aynı özenle çözülecek yeni problemler var.
 
-## Hakkımızda
+<table><tr><td width="33%" align="center"><b>01 — Anla</b><br /><sub>Gerçek ihtiyacı ve bağlamı dinleriz.</sub></td><td width="33%" align="center"><b>02 — Tasarla</b><br /><sub>Karmaşıklığı sezgisel deneyime çeviririz.</sub></td><td width="33%" align="center"><b>03 — İnşa et</b><br /><sub>Özenli, yaşayan ürünler geliştiririz.</sub></td></tr></table>
 
-**BIRDEV STUDIO**, Emrullah Deveci ve Emre Bircan’ın birlikte geliştirdiği dijital ürünleri bir araya getiren bağımsız bir product studio’dur.
+## Projelerimiz
 
-Fikirden ürüne uzanan süreçte; yalın deneyimler, güvenilir altyapılar ve uzun ömürlü yazılımlar geliştirmeye odaklanıyoruz. Her projede kullanım kolaylığını, detaylara verilen özeni ve sürdürülebilir teknolojiyi önceliyoruz.
+| Ürün | Ne yapıyor? | Durum |
+| :--- | :--- | :--- |
+| <a href="https://github.com/BIRDEV-STUDIO/Sutols"><b>✦ Sutols</b></a> | Başlık ve metinlerden düzenlenebilir, etkileyici HTML sunumları oluşturur. | <img src="https://img.shields.io/badge/Building-2563EB?style=flat-square" alt="Geliştiriliyor" /> |
+| <a href="https://github.com/BIRDEV-STUDIO/Nemos"><b>◌ Nemos</b></a> | Yeni bir BIRDEV STUDIO ürünü — yakında daha fazlası burada. | <img src="https://img.shields.io/badge/Coming_soon-64748B?style=flat-square" alt="Yakında" /> |
 
-## Ürünler
+> Yeni bir ürün mü geliyor? Bu tabloya bir satır ekleyin; organizasyon sayfası otomatik olarak güncellensin.
 
-### Sutols
+## Nasıl çalışıyoruz
 
-Pratik değer, güçlü altyapı ve özenli kullanıcı deneyimi odağında geliştirilen ürün.
+<p align="center"><code>İçgörü</code> → <code>Prototip</code> → <code>Ürün</code> → <code>Geri bildirim</code> → <code>Daha iyi ürün</code></p>
 
-### Nemos
+- **Ürün odağı:** Teknolojiyi insanların işini kolaylaştıran bir araç olarak görürüz.
+- **Titiz deneyim:** İlk ekrandan son ayrıntıya kadar açık, tutarlı akışlar tasarlarız.
+- **Sürekli gelişim:** Yayınlamak; ölçmenin, öğrenmenin ve iyileştirmenin başlangıcıdır.
 
-Düşünülmüş iş akışları ve sade, amaç odaklı bir deneyim etrafında şekillenen ürün.
+## Birlikte büyüyelim
 
-## Yaklaşımımız
+Projelerimizi inceleyin, fikirlerinizi paylaşın ve açık kaynak yolculuğumuza eşlik edin. Bir hata, öneri veya katkı için ilgili projenin Issues ve Pull Requests alanları en iyi başlangıç noktasıdır.
 
-- Kullanıcıya gerçek fayda sağlayan ürünler geliştiririz.
-- Karmaşıklığı azaltan, anlaşılır deneyimleri önemseriz.
-- Hızlı çözümler yerine sürdürülebilir sistemler kurarız.
-- Uygun olduğu yerde açık geliştirme kültürünü benimseriz.
+<p align="center"><a href="https://github.com/BIRDEV-STUDIO"><b>GitHub'da BIRDEV STUDIO'yu takip et →</b></a></p>
 
-## İletişim
-
-Ürünlerle ilgili geri bildirim, öneri veya iş birliği talepleriniz için ilgili projenin Issues alanını kullanabilirsiniz.
-
-<div align="center">
-
-<sub>Built collaboratively by Emrullah Deveci and Emre Bircan.</sub>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1D4ED8,100:22C55E&height=120&section=footer" alt="" />
