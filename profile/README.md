@@ -31,6 +31,12 @@ Sutols, başlık ve metinlerden **düzenlenebilir HTML sunumları** oluşturan b
 
 ### Nemos — çocukların öğrenme alanı
 
+<p align="center">
+  <img src="assets/nemos/whatsapp-01.jpeg" width="30%" alt="Nemos uygulama ekranı" />
+  <img src="assets/nemos/besin-ninja.png" width="30%" alt="Besin Ninja" />
+  <img src="assets/nemos/surtunme-yarisi.png" width="30%" alt="Sürtünme Yarışı" />
+</p>
+
 <p align="center"><a href="https://github.com/BIRDEV-STUDIO/NemosApp"><img src="https://img.shields.io/badge/Nemos-Öğren%20·%20Oyna%20·%20Üret-00A6A6?style=for-the-badge" alt="Nemos" /></a></p>
 
 Nemos, çocukların ders konularını oyunlaştırılmış deneyimlerle keşfetmesi için geliştirilen bir öğrenme ve yaratım platformudur. Hazır eğitim oyunlarını, yapay zekâ destekli HTML5 oyun üretimini ve güvenli sosyal keşfi tek bir mobil/web deneyiminde bir araya getirir.
